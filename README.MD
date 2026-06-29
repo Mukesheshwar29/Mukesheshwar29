@@ -171,7 +171,7 @@ Collection of Data Structures & Algorithms solutions in Java & C++.
 
 ## 🎯 2026 Goals
 
-- ✅ Solve 500+ LeetCode Problems
+- ✅ Solve 200+ LeetCode Problems
 - ✅ Master System Design
 - ✅ Build Scalable AI Products
 - ✅ Contribute to Open Source
