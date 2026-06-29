@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kannan</h1>
 
 <h3 align="center">
-AI & Data Science Undergraduate • Full Stack Developer • Machine Learning Enthusiast
+AI & Data Science Undergraduate • Software Developer
 </h3>
 
 <p align="center">
