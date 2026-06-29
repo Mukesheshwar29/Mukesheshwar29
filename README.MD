@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Mukesh Kannan</h1>
 
 <h3 align="center">
@@ -214,4 +214,3 @@ Collection of Data Structures & Algorithms solutions in Java & C++.
 ### ⭐ "Code. Learn. Build. Repeat."
 
 </div>
-```
